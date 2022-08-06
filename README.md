@@ -4,4 +4,4 @@ CBSE , Class 12 Computer Science project ( idc if you use it for your project to
 
 # Updates 
 
-->   04/08/22 : Shown to teacher told to add more stuff 
+->   04/08/22 : Shown to teacher , told to add more stuff 
